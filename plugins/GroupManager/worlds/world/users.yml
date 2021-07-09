@@ -1,0 +1,10 @@
+users:
+  example:
+    group: Builder
+    subgroups: []
+    permissions:
+    - example
+  Silent123:
+    group: Admin
+    subgroups: []
+    permissions: []

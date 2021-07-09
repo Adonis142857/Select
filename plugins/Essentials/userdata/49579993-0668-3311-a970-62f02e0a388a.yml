@@ -1,0 +1,71 @@
+lastAccountName: Silent123
+timestamps:
+  login: 1625352864957
+  logout: 1625354633407
+  lastteleport: 1625354195116
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: 260.6111029490596
+  y: 77.07620130388564
+  z: 72.91653347988185
+  yaw: 37.35266
+  pitch: 5.0999713
+lastlocation:
+  world: world
+  x: 254.5
+  y: 60.0
+  z: -167.5
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+homes:
+  home:
+    world: world
+    x: 319.0492336917156
+    y: 60.0
+    z: -226.57937632118342
+    yaw: -312.14987
+    pitch: -4.7999935
+  a:
+    world: a
+    x: 196.1346490020919
+    y: 80.0
+    z: 170.48252526518962
+    yaw: -134.99957
+    pitch: 28.799994
+  fish:
+    world: world
+    x: 316.64277386526635
+    y: 60.5
+    z: -212.39765459170354
+    yaw: 1.4999752
+    pitch: 6.75001
+  road:
+    world: world_nether
+    x: 35.57101024914341
+    y: 34.0
+    z: -32.189108190478876
+    yaw: 169.20044
+    pitch: 5.5499473
+  stone:
+    world: world
+    x: 286.1208692416962
+    y: 60.0
+    z: -247.4813262474522
+    yaw: 88.049194
+    pitch: 78.14996
+  stone2:
+    world: world
+    x: 274.8967342319212
+    y: 61.00036816027469
+    z: -243.7709215026562
+    yaw: 269.40106
+    pitch: 18.149954
+  b:
+    world: world_the_end
+    x: 128.49903231130816
+    y: 64.02739097294092
+    z: 1354.7821530234826
+    yaw: -252.1471
+    pitch: 16.650017

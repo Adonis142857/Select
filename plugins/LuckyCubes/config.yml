@@ -1,0 +1,24 @@
+messages:
+  noPermission: "&4You dont have permission to use this command!"
+  placeOnGround: "&cTo open this luckycube you need to place it on the ground"
+  removedLuckyCube: "&cThis luckycube has been removed, you cannot use it!"
+  giveMessage: "&6{player} &agave you &6{amount} &ax&6{luckycube}"
+  getReward: "&7You got &6{amount} &ax&6{item}"
+  cooldown: "&cYou have to wait &6{seconds} &cto open another luckycube!"
+  disableCommandUse: "&cYou cannot use commands while opening a luckycube!"
+  
+
+spinningAnimation:
+  armortandTitle: '&6{player} &7got &6{amount} &7x&6{item}'
+  particleType: 'EXPLOSION_LARGE'
+  particlesAmount: 5
+
+sendMessageOnReward: true
+
+disableCommandsOnOpen: true
+
+# allows player to exit the gui animation!
+allowExitInGUI: false
+
+cooldownTime: 10
+
