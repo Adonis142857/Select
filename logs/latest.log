@@ -1,0 +1,322 @@
+[07:34:31] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[07:34:31] [Server thread/INFO]: Loading properties
+[07:34:38] [Server thread/INFO]: Default game type: SURVIVAL
+[07:34:38] [Server thread/INFO]: This server is running Paper version git-Paper-1618 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[07:34:38] [Server thread/INFO]: Debug logging is disabled
+[07:34:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:34:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:34:38] [Server thread/INFO]: Generating keypair
+[07:34:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:34:39] [Server thread/INFO]: Using default channel type
+[07:34:40] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[07:34:40] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.1
+[07:34:40] [Server thread/INFO]: [iConomy] Loading iConomy v7.0.4
+[07:34:40] [Server thread/INFO]: [LuckyCubes] Loading LuckyCubes v1.0.5
+[07:34:40] [Server thread/INFO]: [TPAPro] Loading TPAPro v1.2
+[07:34:40] [Server thread/INFO]: +=================================================+
+[07:34:40] [Server thread/INFO]:   TPAPro 插件已读取!    作者：HCG_Sky   版本：v1.2
+[07:34:40] [Server thread/INFO]: +=================================================+
+[07:34:40] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[07:34:40] [Server thread/INFO]: [Marriage] Loading Marriage v2.0.20
+[07:34:40] [Server thread/INFO]: [Marriage] Completed plugin pre-load stage.
+[07:34:40] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b719
+[07:34:40] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.24-SNAPSHOT (build 1605)
+[07:34:40] [Server thread/INFO]: [MoneyDrop] Loading MoneyDrop v1.0.1
+[07:34:40] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[07:34:40] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.1
+[07:34:40] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.3.2-b1726
+[07:34:40] [Server thread/INFO]: [QuickShop] Loading QuickShop v1.13-0.9.39-beta
+[07:34:40] [Server thread/INFO]: [Residence] Loading Residence v4.8.8.2
+[07:34:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:34:40] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[07:34:40] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[07:34:40] [Server thread/WARN]: [Vault] iConomy - If you are using Flatfile storage be aware that versions 6, 7 and 8 have a CRITICAL bug which can wipe ALL iconomy data.
+[07:34:40] [Server thread/WARN]: [Vault] if you're using Votifier, or any other plugin which handles economy data in a threaded manner your server is at risk!
+[07:34:40] [Server thread/WARN]: [Vault] it is highly suggested to use SQL with iCo6 or to use an alternative economy plugin!
+[07:34:40] [Server thread/INFO]: [Vault] [Economy] iConomy 6 found: Waiting
+[07:34:40] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[07:34:40] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[07:34:40] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[07:34:40] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[07:34:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:34:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:34:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:34:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:34:40] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[07:34:40] [Server thread/INFO]: Preparing level "world"
+[07:34:40] [Server thread/INFO]: -------- World Settings For [world] --------
+[07:34:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[07:34:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[07:34:40] [Server thread/INFO]: View Distance: 10
+[07:34:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[07:34:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[07:34:40] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[07:34:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[07:34:40] [Server thread/INFO]: Mob Spawn Range: 4
+[07:34:40] [Server thread/INFO]: Max TNT Explosions: 100
+[07:34:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[07:34:40] [Server thread/INFO]: Structure Info Saving: true
+[07:34:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[07:34:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[07:34:40] [Server thread/INFO]: Random Lighting Updates: false
+[07:34:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[07:34:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[07:34:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[07:34:40] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[07:34:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[07:34:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[07:34:40] [Server thread/INFO]: View Distance: 10
+[07:34:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[07:34:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[07:34:40] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[07:34:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[07:34:40] [Server thread/INFO]: Mob Spawn Range: 4
+[07:34:40] [Server thread/INFO]: Max TNT Explosions: 100
+[07:34:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[07:34:40] [Server thread/INFO]: Structure Info Saving: true
+[07:34:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[07:34:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[07:34:40] [Server thread/INFO]: Random Lighting Updates: false
+[07:34:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[07:34:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[07:34:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[07:34:40] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[07:34:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[07:34:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[07:34:40] [Server thread/INFO]: View Distance: 10
+[07:34:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[07:34:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[07:34:40] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[07:34:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[07:34:40] [Server thread/INFO]: Mob Spawn Range: 4
+[07:34:40] [Server thread/INFO]: Max TNT Explosions: 100
+[07:34:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[07:34:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[07:34:40] [Server thread/INFO]: Structure Info Saving: true
+[07:34:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[07:34:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[07:34:40] [Server thread/INFO]: Random Lighting Updates: false
+[07:34:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[07:34:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[07:34:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[07:34:40] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2898727102729036090)
+[07:34:41] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2898727102729036090)
+[07:34:42] [Server thread/INFO]: Preparing start region for level 2 (Seed: -2898727102729036090)
+[07:34:42] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.1
+[07:34:42] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[07:34:42] [Server thread/INFO]: [iConomy] Enabling iConomy v7.0.4
+[07:34:42] [Server thread/INFO]: [iConomy - April Fools] Enabled (23 ms)
+[07:34:42] [Server thread/INFO]: [iConomy] Hello, I'm Nijikokun. Yes, this is an April Fools joke, but '/money top' was fixed! Enjoy :) - Rare Version!
+[07:34:42] [Server thread/INFO]: [Vault] [Vault][Economy] iConomy 7 hooked.
+[07:34:42] [Server thread/INFO]: [LuckyCubes] Enabling LuckyCubes v1.0.5
+[07:34:42] [Server thread/INFO]: LuckyCubes >>> NMS Version Detected: v1_12_R1
+[07:34:42] [Server thread/INFO]: LuckyCubes >>> No recipes detected!
+[07:34:42] [Server thread/INFO]: LuckyCubes plugin has been enabled!
+[07:34:42] [Server thread/INFO]: [TPAPro] Enabling TPAPro v1.2
+[07:34:42] [Server thread/INFO]: +=================================================+
+[07:34:42] [Server thread/INFO]:   TPAPro 插件已载入!   作者：HCG_Sky   版本：v1.2
+[07:34:42] [Server thread/INFO]: +=================================================+
+[07:34:42] [Server thread/INFO]: [Marriage] Enabling Marriage v2.0.20
+[07:34:42] [Server thread/INFO]: [Marriage] Loading config...
+[07:34:42] [Thread-6/INFO]: [iConomy - April Fools] Purged accounts with default balance.
+[07:34:42] [Server thread/INFO]: [Marriage] Hooked with GroupManager using Vault!
+[07:34:42] [Server thread/INFO]: [Marriage] Loading dependencies...
+[07:34:42] [Server thread/INFO]: [Marriage] Loading listeners...
+[07:34:42] [Server thread/INFO]: [Marriage] Loading commands...
+[07:34:42] [Server thread/INFO]: [Marriage] Loading database...
+[07:34:42] [Server thread/INFO]: [Marriage] Loading updater...
+[07:34:42] [Server thread/INFO]: [Marriage] Loading converter...
+[07:34:42] [Server thread/INFO]: [Marriage] Completed plugin load stage.
+[07:34:42] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b719
+[07:34:42] [Server thread/INFO]: -------- World Settings For [a] --------
+[07:34:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[07:34:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[07:34:42] [Server thread/INFO]: View Distance: 10
+[07:34:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[07:34:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[07:34:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[07:34:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[07:34:42] [Server thread/INFO]: Mob Spawn Range: 4
+[07:34:42] [Server thread/INFO]: Max TNT Explosions: 100
+[07:34:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[07:34:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[07:34:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[07:34:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[07:34:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[07:34:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[07:34:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[07:34:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[07:34:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[07:34:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[07:34:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[07:34:42] [Server thread/INFO]: Structure Info Saving: true
+[07:34:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[07:34:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[07:34:42] [Server thread/INFO]: Random Lighting Updates: false
+[07:34:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[07:34:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[07:34:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[07:34:42] [Server thread/INFO]: Preparing start region for level 3 (Seed: -7775901489879840847)
+[07:34:43] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[07:34:43] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b719 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[07:34:43] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.24-SNAPSHOT (build 1605)
+[07:34:43] [Server thread/INFO]: [MoneyDrop] Enabling MoneyDrop v1.0.1
+[07:34:43] [Server thread/INFO]: [MoneyDrop]插件已加载
+[07:34:43] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
+[07:34:43] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[07:34:43] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[07:34:43] [Server thread/INFO]: [Essentials] Using legacy item data provider as mob spawner provider.
+[07:34:43] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[07:34:43] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[07:34:43] [Server thread/INFO]: [Essentials] Loaded 852 items from items.csv.
+[07:34:43] [Server thread/INFO]: [Essentials] Using locale en_US
+[07:34:43] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[07:34:43] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[07:34:43] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[07:34:43] [Server thread/INFO]: [Essentials] Using Vault based permissions (GroupManager)
+[07:34:43] [Server thread/INFO]: [Essentials] Payment method found (Vault - Economy: iConomy 7 version: 1.7.2-b107)
+[07:34:43] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.1
+[07:34:46] [Server thread/INFO]: [GM+] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[07:34:46] [Server thread/INFO]: [GM+] 
+[07:34:46] [Server thread/INFO]: [GM+] YOU ARE USING OLD VERSION! (3.1)
+[07:34:46] [Server thread/INFO]: [GM+] NEW VERSION: 3.2
+[07:34:46] [Server thread/INFO]: [GM+] 
+[07:34:46] [Server thread/INFO]: [GM+] Please update plugin to the latest version!
+[07:34:46] [Server thread/INFO]: [GM+] Link: https://www.spigotmc.org/resources/40615/
+[07:34:46] [Server thread/INFO]: [GM+] 
+[07:34:46] [Server thread/INFO]: [GM+] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[07:34:46] [Server thread/INFO]: [GM+] 
+[07:34:46] [Server thread/INFO]: [GM+] GroupManger+ [v3.1] has been enabled.
+[07:34:46] [Server thread/INFO]: [GM+] Author: HappyAreaBean
+[07:34:46] [Server thread/INFO]: [GM+] 
+[07:34:46] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[07:34:46] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[07:34:46] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[07:34:46] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[07:34:46] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.1 is now enabled!
+[07:34:46] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[07:34:46] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[07:34:46] [Server thread/INFO]: [Vault] [Vault][Chat] GroupManager - Chat hooked.
+[07:34:46] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.3.2-b1726
+[07:34:46] [Server thread/INFO]: [AuthMe] SQLite driver loaded
+[07:34:46] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[07:34:46] [Server thread/INFO]: [AuthMe] Hooked into Vault!
+[07:34:46] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[07:34:46] [Server thread/INFO]: [AuthMe] Hooked successfully into Multiverse-Core
+[07:34:46] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: 'E:\其他\服务器\Paper\plugins\Essentials\spawn.yml'
+[07:34:46] [Thread-7/WARN]: [AuthMe] Could not download GeoLiteAPI database [UnknownHostException]: geolite.maxmind.com
+[07:34:46] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07:34:46] [Server thread/INFO]: [AuthMe] Development builds are available on our jenkins, thanks to f14stelt.
+[07:34:46] [Server thread/INFO]: [AuthMe] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[07:34:46] [Server thread/INFO]: [AuthMe] AuthMe 5.3.2 build n.1726 correctly enabled!
+[07:34:46] [Server thread/INFO]: [QuickShop] Enabling QuickShop v1.13-0.9.39-beta
+[07:34:46] [Server thread/INFO]: [QuickShop] Found permission provider.
+[07:34:46] [Server thread/INFO]: [QuickShop] Limit cfg found...
+[07:34:46] [Server thread/INFO]: [QuickShop] Limits.use: false
+[07:34:46] [Server thread/INFO]: [QuickShop] {quickshop=0, quickshop.vip=20}
+[07:34:46] [Server thread/INFO]: [QuickShop] Loading shops from database...
+[07:34:46] [Server thread/INFO]: [QuickShop] Loaded 1 shops.
+[07:34:46] [Server thread/INFO]: Cleaning purchase messages from database that are over a week old...
+[07:34:46] [Server thread/INFO]: [QuickShop] Registering Listeners
+[07:34:46] [Server thread/INFO]: [QuickShop] QuickShop loaded!
+[07:34:46] [Server thread/INFO]: [Residence] Enabling Residence v4.8.8.2
+[07:34:52] [Server thread/INFO]: [Residence] Found Vault using permissions plugin:GroupManager
+[07:35:15] [Server thread/INFO]: [Residence] Scanning for economy systems...
+[07:35:15] [Server thread/INFO]: [Residence] Found Vault using economy system: iConomy 7
+[07:35:15] [Server thread/INFO]: [Residence] Loading save data for world world...
+[07:35:15] [Server thread/INFO]: [Residence] Loaded world data. (2 ms)
+[07:35:15] [Server thread/INFO]: [Residence] Loading save data for world world_nether...
+[07:35:15] [Server thread/INFO]: [Residence] Loaded world_nether data. (2 ms)
+[07:35:15] [Server thread/INFO]: [Residence] Loading save data for world world_the_end...
+[07:35:15] [Server thread/INFO]: [Residence] Loaded world_the_end data. (13 ms)
+[07:35:15] [Server thread/INFO]: [Residence] Loading save data for world a...
+[07:35:15] [Server thread/INFO]: [Residence] Loaded a data. (1 ms)
+[07:35:15] [Server thread/INFO]: [Residence] Loading world data into memory...
+[07:35:15] [Server thread/INFO]: [Residence] Loaded world data into memory. (1 ms) -> 0 residences
+[07:35:15] [Server thread/INFO]: [Residence] Loading world_nether data into memory...
+[07:35:15] [Server thread/INFO]: [Residence] Loaded world_nether data into memory. (0 ms) -> 0 residences
+[07:35:15] [Server thread/INFO]: [Residence] Loading world_the_end data into memory...
+[07:35:15] [Server thread/INFO]: [Residence] Loaded world_the_end data into memory. (0 ms) -> 0 residences
+[07:35:15] [Server thread/INFO]: [Residence] Loading a data into memory...
+[07:35:15] [Server thread/INFO]: [Residence] Loaded a data into memory. (0 ms) -> 0 residences
+[07:35:15] [Server thread/INFO]: [Residence] Found WorldEdit 5.6.1
+[07:35:15] [Server thread/INFO]: [Residence] Enabled! Version 4.8.8.2 by Zrips
+[07:35:15] [Server thread/INFO]: Done (35.325s)! For help, type "help" or "?"
+[07:35:15] [Server thread/INFO]: Timings Reset
+[07:35:15] [Craft Scheduler Thread - 13/INFO]: [Vault] Checking for Updates ... 
+[07:35:15] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
+[07:35:15] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[07:35:16] [Craft Scheduler Thread - 12/INFO]: Failed to check for Residence update on spigot web page.
+[07:35:17] [Craft Scheduler Thread - 13/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.7.2
+[07:35:17] [Craft Scheduler Thread - 13/WARN]: [Vault] Update at: https://dev.bukkit.org/projects/vault
+[07:35:47] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[07:36:01] [Server thread/INFO]: [GM+] Couldn't retrieve your world. Default world 'world' selected.
+[07:36:01] [Server thread/INFO]: You changed player 'Silent123' group to 'Admin' in world 'world'.
+[07:36:25] [Server thread/INFO]: Stopping the server
+[07:36:25] [Server thread/INFO]: Stopping server
+[07:36:25] [Server thread/INFO]: [Residence] Disabling Residence v4.8.8.2
+[07:36:28] [Server thread/INFO]: [Residence] Disabled!
+[07:36:28] [Server thread/INFO]: [QuickShop] Disabling QuickShop v1.13-0.9.39-beta
+[07:36:28] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.3.2-b1726
+[07:36:28] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[07:36:28] [Server thread/INFO]: [AuthMe] AuthMe 5.3.2-b1726 disabled!
+[07:36:28] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.1
+[07:36:28] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[07:36:28] [Server thread/INFO]: [Vault][Permission] GroupManager un-hooked.
+[07:36:28] [Server thread/INFO]: [Vault] [Vault][Chat] GroupManager - Chat un-hooked.
+[07:36:28] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is disabled!
+[07:36:28] [Server thread/INFO]: GroupManager version 3.1 is disabled!
+[07:36:28] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
+[07:36:28] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[07:36:28] [Server thread/INFO]: [MoneyDrop] Disabling MoneyDrop v1.0.1
+[07:36:28] [Server thread/INFO]: [MoneyDrop]插件已卸载
+[07:36:28] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.24-SNAPSHOT (build 1605)
+[07:36:28] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b719
+[07:36:28] [Server thread/INFO]: [Marriage] Disabling Marriage v2.0.20
+[07:36:28] [Server thread/INFO]: [Marriage] Loading database...
+[07:36:28] [Server thread/INFO]: [Marriage] Plugin has been completely disabled.
+[07:36:28] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[07:36:28] [Server thread/INFO]: [TPAPro] Disabling TPAPro v1.2
+[07:36:28] [Server thread/INFO]: +=================================================+
+[07:36:28] [Server thread/INFO]:   TPAPro 插件已卸载!   作者：HCG_Sky   版本：v1.2
+[07:36:28] [Server thread/INFO]: +=================================================+
+[07:36:28] [Server thread/INFO]: [LuckyCubes] Disabling LuckyCubes v1.0.5
+[07:36:28] [Server thread/INFO]: [iConomy] Disabling iConomy v7.0.4
+[07:36:28] [Server thread/INFO]: [iConomy] Closing general data...
+[07:36:28] [Server thread/INFO]: [iConomy] Disabled. (0 ms)
+[07:36:28] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.1
+[07:36:28] [Server thread/INFO]: Saving players
+[07:36:28] [Server thread/INFO]: Saving worlds
+[07:36:28] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[07:36:31] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[07:36:37] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[07:36:43] [Server thread/INFO]: Saving chunks for level 'a'/overworld
